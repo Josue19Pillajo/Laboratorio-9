@@ -17,6 +17,7 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 # 2. MARCO TEÓRICO
 
+![JOSUE 3 (1)](https://user-images.githubusercontent.com/84783236/133254848-f715c686-7120-471a-8117-b672e1988247.png)
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
