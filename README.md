@@ -81,6 +81,14 @@ Polar= 51.28∟-22.57◦
 
 4.4  Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
+![1](https://user-images.githubusercontent.com/84783236/133192451-b1ecc352-60f4-4e26-aa80-55c677981821.png)
+![2](https://user-images.githubusercontent.com/84783236/133192457-1192fb8f-4ac9-4908-b0ce-568b17303476.png)
+![3](https://user-images.githubusercontent.com/84783236/133192463-f2ff2a8a-1e10-4c22-8580-ef5c1de5e819.png)
+![4](https://user-images.githubusercontent.com/84783236/133192473-dde8d1c8-cff7-47bf-ac09-f491a7737c4e.png)
+![5](https://user-images.githubusercontent.com/84783236/133192478-f6e1aa18-c068-4660-809b-cd934ab96009.png)
+![6](https://user-images.githubusercontent.com/84783236/133192484-7a76666c-b121-4d56-9c22-5ac82fdbd5a2.png)
+![7](https://user-images.githubusercontent.com/84783236/133192488-8476baf8-4d3a-47b4-b899-c6132a7a60e2.png)
+![8](https://user-images.githubusercontent.com/84783236/133192496-25555f9c-94af-4a21-8e6e-682d8eba3d10.png)
 
 
 # 5. VIDEO
