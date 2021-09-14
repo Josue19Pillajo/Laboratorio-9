@@ -94,6 +94,8 @@ Polar= 51.28∟-22.57◦
 
 # 5. VIDEO
 
+https://www.youtube.com/watch?v=KpiaAOlkMTQ
+
 # 6. CONCLUSIONES
 
 Conluimos que los calculos establecidos  ya sea matematicamente o realizados digitalmente en una calculadora el valor es mínimo por lo que concluimos que realizamos bien estos ejercicios y podemos darnos cuenta que  en nuestra área  podemos  hacer ejercicios  con mas claridad y poder resolverlos sin ningun problema.
